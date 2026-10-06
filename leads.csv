@@ -1,0 +1,11 @@
+id,name,company,phone,email,city,service,status,created_date
+L001,James Rutherford,Rutherford Properties,416-555-0192,j.rutherford@ruthprop.ca,Toronto,HVAC Installation,New,2026-09-01
+L002,Sandra Cho,Cho Dental Group,416-555-0348,scho@chodental.ca,Toronto,Plumbing,Contacted,2026-09-03
+L003,Mike Deluca,Deluca Contracting,647-555-0271,mdeluca@delucacon.ca,Etobicoke,HVAC Maintenance,Quoted,2026-09-05
+L004,Priya Nair,Nair Realty,519-555-0184,pnair@nairrealty.ca,Guelph,HVAC Installation,New,2026-09-07
+L005,Tom Bakker,Bakker Auto Group,519-555-0293,tbakker@bakkerauto.ca,Guelph,Plumbing,Quoted,2026-09-08
+L006,Angela Ferreira,Ferreira Holdings,416-555-0417,aferreira@ferrhold.ca,Toronto,HVAC Maintenance,Closed-Won,2026-09-10
+L007,David Park,Park Medical Clinic,647-555-0362,dpark@parkmed.ca,Etobicoke,Plumbing,Contacted,2026-09-12
+L008,Lisa Tran,Tran Food Services,519-555-0229,ltran@tranfood.ca,Guelph,HVAC Installation,Closed-Lost,2026-09-14
+L009,Carlos Mendez,Mendez Law,416-555-0511,cmendez@mendezlaw.ca,Toronto,Plumbing,New,2026-09-16
+L010,Rachel Kim,Kim Logistics,647-555-0388,rkim@kimlogistics.ca,Etobicoke,HVAC Maintenance,Quoted,2026-09-18

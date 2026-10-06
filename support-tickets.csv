@@ -1,0 +1,21 @@
+id,client,city,service,issue,priority,status,created_date,resolved_date
+T001,Rutherford Properties,Toronto,HVAC,Unit not cooling — tenant complaint,High,Resolved,2026-09-01,2026-09-02
+T002,Cho Dental Group,Toronto,Plumbing,Slow drain in staff bathroom,Low,Resolved,2026-09-03,2026-09-05
+T003,Ferreira Holdings,Toronto,HVAC,Thermostat unresponsive after install,Medium,Resolved,2026-09-11,2026-09-12
+T004,Bakker Auto Group,Guelph,Plumbing,Pipe leak under service bay sink,High,Resolved,2026-09-08,2026-09-09
+T005,Park Medical Clinic,Etobicoke,Plumbing,No hot water in washrooms,High,Resolved,2026-09-13,2026-09-14
+T006,Kim Logistics,Etobicoke,HVAC,Strange noise from rooftop unit,Medium,Open,2026-09-19,
+T007,Nair Realty,Guelph,HVAC,New unit not reaching set temperature,Medium,Resolved,2026-09-09,2026-09-11
+T008,Mendez Law,Toronto,Plumbing,Toilet running continuously — 2nd floor,Low,Open,2026-09-17,
+T009,Deluca Contracting,Etobicoke,HVAC,Filter replacement overdue — client reminder,Low,Resolved,2026-09-06,2026-09-07
+T010,Tran Food Services,Guelph,HVAC,AC tripping breaker intermittently,High,Resolved,2026-09-15,2026-09-16
+T011,Rutherford Properties,Toronto,Plumbing,Water pressure drop — unit 4B,Medium,Open,2026-09-20,
+T012,Cho Dental Group,Toronto,HVAC,Uneven cooling across floors,Low,Open,2026-09-21,
+T013,Ferreira Holdings,Toronto,Plumbing,Leaking faucet in board room,Low,Resolved,2026-09-22,2026-09-23
+T014,Bakker Auto Group,Guelph,HVAC,Heating system not switching on,High,Open,2026-09-23,
+T015,Park Medical Clinic,Etobicoke,HVAC,Humidity too high — patient area,Medium,Open,2026-09-24,
+T016,Kim Logistics,Etobicoke,Plumbing,Floor drain backing up in warehouse,High,Open,2026-09-25,
+T017,Nair Realty,Guelph,Plumbing,Outdoor tap not shutting off fully,Low,Resolved,2026-09-26,2026-09-27
+T018,Mendez Law,Toronto,HVAC,Scheduled maintenance overdue,Low,Open,2026-09-27,
+T019,Deluca Contracting,Etobicoke,Plumbing,Burst pipe risk — cold snap warning,High,Resolved,2026-09-28,2026-09-28
+T020,Tran Food Services,Guelph,Plumbing,Grease trap needs cleaning — urgent,High,Open,2026-09-29,
